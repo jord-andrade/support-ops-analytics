@@ -1,13 +1,13 @@
 # SignalDesk — support operations analytics
 
 [![CI](https://github.com/jord-andrade/support-ops-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/jord-andrade/support-ops-analytics/actions/workflows/ci.yml)
-[![Live demo](https://img.shields.io/badge/demo-live-c7f06a?labelColor=132033)](https://support-ops-analytics.vercel.app)
+[![Live demo](https://img.shields.io/badge/demo-live-c7f06a?labelColor=132033)](https://signaldesk-ops.vercel.app)
 [![Synthetic data](https://img.shields.io/badge/data-100%25%20synthetic-c7f06a?labelColor=132033)](./docs/data-contract.md)
 [![License: MIT](https://img.shields.io/badge/license-MIT-c7f06a?labelColor=132033)](./LICENSE)
 
 SignalDesk turns a deterministic, privacy-safe dataset of 100,000 support tickets into a decision workspace. It pairs documented KPIs with targets, shareable filters, computed insights, accessible row-level evidence, and CSV export.
 
-**[Open the live product](https://support-ops-analytics.vercel.app)** · [Read the architecture](./docs/architecture.md) · [Inspect the data contract](./docs/data-contract.md)
+**[Open the live product](https://signaldesk-ops.vercel.app)** · [Read the architecture](./docs/architecture.md) · [Inspect the data contract](./docs/data-contract.md)
 
 ![SignalDesk dashboard showing the synthetic-data disclosure, hero, and filters](./docs/signaldesk-preview.png)
 

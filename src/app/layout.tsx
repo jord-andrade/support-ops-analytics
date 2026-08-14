@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://support-ops-analytics.vercel.app"),
+  metadataBase: new URL("https://signaldesk-ops.vercel.app"),
   title: "SignalDesk · Synthetic support operations analytics",
   description:
     "Explore 100,000 deterministic synthetic support tickets with documented KPIs, shareable filters, evidence rows, and CSV export.",
